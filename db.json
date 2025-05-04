@@ -1,0 +1,49 @@
+{
+    "product":[
+        {   
+            "id":101,
+            "name":"mobile",
+            "price":50000,
+            "catogory":"electronics",
+            "description":"smart phone",
+            "image":"C:/Users/swapn/Desktop/imagesappreact/mobile.jpg"
+            
+        },
+        {   
+            "id":102,
+            "name":"tablet",
+            "price":50000,
+            "catogory":"electronics",
+            "description":"32gb ram",
+            "image":"C:/Users/swapn/Desktop/imagesappreact/tablet.png"
+            
+        },
+        {   
+            "id":103,
+            "name":"smart watch",
+            "price":20000,
+            "catogory":"electronics",
+            "description":"touch screen smart watch",
+            "image":"C:/Users/swapn/Desktop/imagesappreact/smartwatch.jpg"
+            
+        },
+        {   
+            "id":104,
+            "name":"notebook",
+            "price":50,
+            "catogory":"stationary",
+            "description":"long page notebook",
+            "image":"C:/Users/swapn/Desktop/imagesappreact/notebook.jpg"
+            
+        },
+        {   
+            "id":105,
+            "name":"laptop",
+            "price":60000,
+            "catogory":"electronics device",
+            "description":"display good position",
+            "image":"C:/Users/swapn/Desktop/imagesappreact/laptop.jpg"
+            
+        }
+    ]
+}
